@@ -1,0 +1,19 @@
+[
+    {
+        "storeName": "Studio Mise",
+        "imageURL": "https://studiomise.shop/cdn/shop/files/SMise-Momo-LS-Lavender-Detail-1_1024x1024.jpg",
+        "productName": "Product 1",
+        "productDescription": "Description for Product 1",
+        "ctaButtonTitle": "Buy Now",
+        "ctaButtonURL": "https://studiomise.shop/products/momo-matsuri-longsleeve-in-lavender"
+    },
+    {
+        "storeName": "Digital Joy",
+        "imageURL": "https://media.sellfy.com/images/y1XY9oHo/kBky/cover.png",
+        "productName": "Product 2",
+        "productDescription": "Description for Product 2",
+        "ctaButtonTitle": "Buy Now",
+        "ctaButtonURL": "https://jackpacks.sellfy.store/p/cosmic-energy/"
+    }
+
+]
