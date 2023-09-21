@@ -14,6 +14,14 @@
         "productDescription": "Description for Product 2",
         "ctaButtonTitle": "Buy Now",
         "ctaButtonURL": "https://jackpacks.sellfy.store/p/cosmic-energy/"
+    },
+        {
+        "storeName": "Digital Joy",
+        "imageURL": "https://media.sellfy.com/images/y1XY9oHo/kBky/cover.png",
+        "productName": "Product 2",
+        "productDescription": "Description for Product 2",
+        "ctaButtonTitle": "Buy Now",
+        "ctaButtonURL": "https://jackpacks.sellfy.store/p/cosmic-energy/"
     }
 
 ]
