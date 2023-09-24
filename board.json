@@ -1,36 +1,202 @@
 [
-    {
-        "storeName": "Studio Mise",
-        "imageURL": "https://studiomise.shop/cdn/shop/files/SMise-Momo-LS-Lavender-Detail-1_1024x1024.jpg",
-        "productName": "Momo Matsuri Longsleeve in Lavender",
-        "productDescription": "This piece is pre-shrunk during the garment dye and wash processes for almost no shrinkage at home.",
-        "ctaButtonTitle": "Buy Now",
-        "ctaButtonURL": "https://studiomise.shop/products/momo-matsuri-longsleeve-in-lavender"
-    },
-    {
-        "storeName": "Digital Joy",
-        "imageURL": "https://media.sellfy.com/images/y1XY9oHo/kBky/cover.png",
-        "productName": "Glitch & Textures",
-        "productDescription": "The internet is riddled with these Glitch and Texture packs so I thought I'd destroy the system by releasing them for free!",
-        "ctaButtonTitle": "Buy Now",
-        "ctaButtonURL": "https://jackpacks.sellfy.store/p/cosmic-energy/"
-    },
-        {
-        "storeName": "Digital Joy",
-        "imageURL": "https://media.sellfy.com/images/y1XY9oHo/kBky/cover.png",
-        "productName": "Product 2",
-        "productDescription": "Description for Product 2",
-        "ctaButtonTitle": "Buy Now",
-        "ctaButtonURL": "https://jackpacks.sellfy.store/p/cosmic-energy/"
-    }
-    ,
-        {
-        "storeName": "Read Ephemera",
-        "imageURL": "https://www.readephemera.com/content/images/size/w1200/2023/08/Cultural-Artefacts.png",
-        "productName": "Emerging Cultural Artifacts for the Coming Century",
-        "productDescription": "I believe that Gauvain Manhattan's captivating artworks that skillfully combine ...",
-        "ctaButtonTitle": "Read the Article",
-        "ctaButtonURL": "https://www.readephemera.com/the-new-cultural-artefacts/"
-    }
-
+  {
+    "ctaButtonTitle" : "Buy Now",
+    "ctaButtonURL" : "https:\/\/studiomise.shop\/products\/momo-matsuri-longsleeve-in-lavender",
+    "productName" : "Momo Matsuri Longsleeve in Lavender",
+    "tag1" : "Product",
+    "storeName" : "Studio 店 Mise",
+    "imageURL" : "https:\/\/studiomise.shop\/cdn\/shop\/files\/SMise-Momo-LS-Lavender-Detail-1_1024x1024.jpg",
+    "backDesc" : "",
+    "productDescription" : "This piece is pre-shrunk during the garment dye and wash processes for almost no shrinkage at home."
+  },
+  {
+    "ctaButtonTitle" : "Buy Now",
+    "ctaButtonURL" : "https:\/\/jackpacks.sellfy.store\/p\/cosmic-energy\/",
+    "productName" : "Glitch & Textures",
+    "tag1" : "Resource",
+    "storeName" : "Digital Joy",
+    "imageURL" : "https:\/\/media.sellfy.com\/images\/y1XY9oHo\/kBky\/cover.png",
+    "backDesc" : "",
+    "productDescription" : "The internet is riddled with these Glitch and Texture packs so I thought I'd destroy the system by releasing them for free!"
+  },
+  {
+    "ctaButtonTitle" : "Read the Article",
+    "ctaButtonURL" : "https:\/\/fontsinuse.com\/uses\/53129\/accident-s-book-fair",
+    "productName" : "Accident(s) book fair",
+    "tag1" : "",
+    "storeName" : "Fonts In Use",
+    "imageURL" : "https:\/\/assets.fontsinuse.com\/static\/use-media-items\/189\/188748\/upto-700xauto\/642f3d29\/accident3.webp",
+    "backDesc" : "Accident(s) is a place where there will be no untimely encounters, where one should not be afraid of shocks: it is a collision of genres! A desire to present the heterogeneity of independent publishing and to regroup it in one place.\n\nFrom micro-edition to artist’s books, from the most experimental to the unclassifiable, we will see atypical publications in the field of photography and graphic arts.",
+    "productDescription" : "Accident(s) is an independent book fair. The visual identity of the event’s 2021 edition was designed by Atelier Choque Le Goff. "
+  },
+  {
+    "ctaButtonTitle" : "Read the Article",
+    "ctaButtonURL" : "https:\/\/www.readephemera.com\/the-new-cultural-artefacts\/",
+    "productName" : "Emerging Cultural Artifacts for the Coming Century",
+    "tag1" : "",
+    "storeName" : "Read Ephemera",
+    "imageURL" : "https:\/\/www.readephemera.com\/content\/images\/size\/w1200\/2023\/08\/Cultural-Artefacts.png",
+    "backDesc" : "Ephemera is an independent publication that delves into the world of design, research, user experience, and above all, the captivating realm of video games. My passion lies in understanding how things work, celebrating creativity, and appreciating the artistry behind every project and artwork.\n",
+    "productDescription" : "I believe that Gauvain Manhattan's captivating artworks that skillfully combine ..."
+  },
+  {
+    "ctaButtonTitle" : "Read the Article",
+    "ctaButtonURL" : "https:\/\/www.readephemera.com\/video-games-are-art\/",
+    "productName" : "Roger Ebert was Wrong, Video Games can never not be Art.\nRoger Ebert was Wrong, Video Games can never not be Art.\n",
+    "tag1" : "",
+    "storeName" : "Read Ephemera",
+    "imageURL" : "https:\/\/www.readephemera.com\/content\/images\/size\/w1200\/2023\/08\/Ebert2.png",
+    "backDesc" : "Ephemera is an independent publication that delves into the world of design, research, user experience, and above all, the captivating realm of video games. My passion lies in understanding how things work, celebrating creativity, and appreciating the artistry behind every project and artwork.\nEphemera is an independent publication that delves into the world of design, research, user experience, and above all, the captivating realm of video games. My passion lies in understanding how things work, celebrating creativity, and appreciating the artistry behind every project and artwork.\n",
+    "productDescription" : "Despite the lucrative nature of the video game industry and that video games are a part of the popular culture, video games remain taboo."
+  },
+  {
+    "ctaButtonTitle" : "Read the Article",
+    "ctaButtonURL" : "https:\/\/www.itsnicethat.com\/articles\/pol-edouard-illustration-project-190923",
+    "productName" : "Pol-Edouard Flores illustrates retro characters and games with his spontaneous approach to drawing\n",
+    "tag1" : "",
+    "storeName" : "It's Nice That",
+    "imageURL" : "https:\/\/admin.itsnicethat.com\/images\/c-v4cC5sh6UbPiYXE-hZ2sWNenk=\/245488\/format-webp%7Cwidth-1440\/pol-edouard-flores-illustration-itsnicethat-01.jpeg",
+    "backDesc" : "Born in Paris and moving around to a number of cities, Pol-Edouard came to his style during his time spent sectioned in a London mental health ward in 2015. “No computer, no phone, so I had all the time to read and learn perspective. I started drawing cyborgs in a sort of automatic way, without sketching and without any idea of what the final results would be,” he tells us...",
+    "productDescription" : "With a touching journey that recounts his struggle with mental health and developing his style while hospitalised, the France-based illustrator now talks about his arrival at a more colourful oeuvre and life.\n"
+  },
+  {
+    "ctaButtonTitle" : "Visit the Website",
+    "ctaButtonURL" : "https:\/\/nmaahc.si.edu\/explore\/stories\/baldwin-turkey",
+    "productName" : "Baldwin in Turkey\n",
+    "tag1" : "",
+    "storeName" : "Smithsonian",
+    "imageURL" : "https:\/\/nmaahc.si.edu\/sites\/default\/files\/styles\/4_3_manual_crop_style\/public\/images\/captioned\/galatabridge.jpg?itok=fVrKhkhX",
+    "backDesc" : "James Arthur Baldwin (August 2, 1924 – December 1, 1987) was an American writer. He garnered acclaim for his work across several forms, including essays, novels, plays, and poems. His first novel, Go Tell It on the Mountain, was published in 1953; decades later, Time magazine included the novel on its list of the 100 best English-language novels released from 1923 to 2005.",
+    "productDescription" : "Baldwin often used his time abroad to heal, and famously mentioned that “Turkey saved my life!” Beginning in 1961, he lived there on and off for nearly ten years. This Turkish decade provided a reprieve from America’s homophobia and racism during the height of the civil rights struggles. At the time, Baldwin told his friend, assistant, and drama critic Zeynep Oral, “I can’t breathe, I have to look from the outside.”\n\n"
+  },
+  {
+    "ctaButtonTitle" : "Read the Article",
+    "ctaButtonURL" : "https:\/\/eyeondesign.aiga.org\/what-is-molecular-typography-and-is-it-having-a-comeback\/",
+    "productName" : "What Is Molecular Typography, and Why Is It Experiencing a Resurgence?",
+    "tag1" : "",
+    "storeName" : "Eye on Design",
+    "imageURL" : "https:\/\/eyeondesign.aiga.org\/wp-content\/uploads\/2020\/02\/molecular-typography-spread-aiga3.jpg",
+    "backDesc" : "Eye on Design is an editorial platform that explores what it means to be a designer today. We cover the issues important to the global design world + elevate the voices of contemporary designers as a way to build a more engaged design community.",
+    "productDescription" : "Type designers have a bit of a reputation for being meticulous, which makes sense considering the nuances of creating letterforms..."
+  },
+  {
+    "ctaButtonTitle" : "Visit the Website",
+    "ctaButtonURL" : "https:\/\/unsplash.com\/@byfoul",
+    "productName" : "Frankie Cordoba",
+    "tag1" : "",
+    "storeName" : "Unsplash",
+    "imageURL" : "https:\/\/images.unsplash.com\/photo-1671124622637-2dd20836a520?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "backDesc" : "",
+    "productDescription" : "The urban photography collection of Frankie Cordoba"
+  },
+  {
+    "ctaButtonTitle" : "Visit the Website",
+    "ctaButtonURL" : "https:\/\/www.pentagram.com\/work\/pentagram-papers-9-unilever-house-towards-a-new-ornament",
+    "productName" : "Pentagram Papers 9: Unilever House: Towards a New Ornament",
+    "tag1" : "Product",
+    "storeName" : "Pentagram",
+    "imageURL" : "https:\/\/pentagram-production.imgix.net\/wp\/59363f18a3059\/pp09-0002-copy.jpg",
+    "backDesc" : "",
+    "productDescription" : "It records the refurbishment of Unilever House and involves commissions for original artwork created by contemporary craftspeople. Theo Crosby records his stand against what he saw as the crude and bland construction methods of some contemporary architecture."
+  },
+  {
+    "ctaButtonTitle" : "Visit the Website",
+    "ctaButtonURL" : "https:\/\/optikbooks.de\/zdf\/",
+    "productName" : "ZDF TV+DESIGN\n",
+    "tag1" : "Product",
+    "storeName" : "Optik Books",
+    "imageURL" : "https:\/\/optikbooks.de\/wp-content\/uploads\/2023\/07\/OB_A511_ZDF_Cover-1536x1025.jpg",
+    "backDesc" : "Author: Jens Müller\nDesign: vista, Düsseldorf\nYear: 2023\nPages: 152\nIllustrations: 600+\nLanguages: English\/German\nPrint run: 1.000 copies\nPrint: Offset, Brochur with poster cover\nISBN: 978-3-9822542-4-1",
+    "productDescription" : "In 1963, Zweites Deutsches Fernsehen, ZDF for short, was launched as a new public TV broadcaster in West Germany. With a program offering news, sports, culture and entertainment, it would become one of the country’s most influential media institutions. The TV station’s multifaceted design history began with a logo competition in the year before it went.."
+  },
+  {
+    "ctaButtonTitle" : "Visit the Website",
+    "ctaButtonURL" : "https:\/\/www.bitmapbooks.com\/en-ca\/collections\/all-books\/products\/the-art-of-the-box",
+    "productName" : "The Art of The Box",
+    "tag1" : "Product",
+    "storeName" : "Bitmap Books",
+    "imageURL" : "https:\/\/www.bitmapbooks.com\/cdn\/shop\/files\/TAOTB_BB_DSCF0881_672x448.jpg",
+    "backDesc" : "",
+    "productDescription" : "The Art Of The Box features 26 biographies of those artists who, at some point in their careers, found themselves illustrating video game packaging"
+  },
+  {
+    "ctaButtonTitle" : "Read the Article",
+    "ctaButtonURL" : "https:\/\/99percentinvisible.org\/episode\/the-many-deaths-of-a-painting\/",
+    "productName" : "The Many Deaths of a Painting\n",
+    "tag1" : "",
+    "storeName" : "99% Invisible",
+    "imageURL" : "https:\/\/99percentinvisible.org\/app\/uploads\/2019\/03\/800px-Vandalized_Night_Watch_1975-09-16c-600x837.jpg",
+    "backDesc" : "Today, the damaged painting is in storage, waiting for experts to try and fix it so it looks like the way the artist intended it to be. This story shows how art can be powerful and sometimes even controversial, making people react in different ways.\n\n\n\n",
+    "productDescription" : "Today, the damaged painting is in storage, waiting for experts to try and fix it so it looks like the way the artist intended it to be. This story shows how art can be powerful and sometimes even controversial, making people react in different ways.\n\n\n\n"
+  },
+  {
+    "ctaButtonTitle" : "Read the Article",
+    "ctaButtonURL" : "https:\/\/qz.com\/1531721\/feeling-anxious-its-not-just-you-its-our-philosophical-era-of-neuroexistentialism",
+    "productName" : "Philosophical era of neuroexistentialism",
+    "tag1" : "",
+    "storeName" : "Quartz",
+    "imageURL" : "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/c_fit,f_auto,g_center,q_60,w_1600\/90651b409c0a8227653918816ceb437a.jpg",
+    "backDesc" : "",
+    "productDescription" : "It’s not easy being human. It never was, really, if William Shakespeare is to be believed. In the 16th century, the playwright noted that “life…is a tale told by an idiot, full of sound and fury, signifying nothing.”\n\n"
+  },
+  {
+    "ctaButtonTitle" : "Visit the Website",
+    "ctaButtonURL" : "https:\/\/uploads-ssl.webflow.com\/630335a894cd570fee67bf0f\/6352874404ca9cafb929fe2d_221019_TNCAD_Website_1720x803px_Typo_Banner.gif",
+    "productName" : "Incostant Regular",
+    "tag1" : "Resource",
+    "storeName" : "Dyslexia Scotland",
+    "imageURL" : "https:\/\/uploads-ssl.webflow.com\/630335a894cd570fee67bf0f\/6358114232507b2588c6c518_221024_TNCAD_Website_Typeface_Landingpage_Title_Animation.gif",
+    "backDesc" : "\"People with dyslexia can be excluded by some formats of written information; and designers are key to creating more accessible styles of text. Our campaign ‘There’s Nothing Comic About Dyslexia’ aims to do just that, by giving designers the opportunity to be bold trailblazers on the journey to a more dyslexia-friendly mindset. It’s fairly easy, all it takes is their willingness to create change through what they admire most: beautiful design.\"\n\n– Katie Carmichael, Lead for Creative and Digital, Dyslexia Scotland.",
+    "productDescription" : "Thanks for getting the word out, Comic Sans. But now it’s time to switch it up and direct the spotlight towards the new dyslexia-friendly and beautiful typeface on the scene. "
+  },
+  {
+    "ctaButtonTitle" : "Visit the Website",
+    "ctaButtonURL" : "https:\/\/anatolia19.com\/",
+    "productName" : "Socio-Economic Map of Anatolia",
+    "tag1" : "",
+    "storeName" : "Anatolia 19th",
+    "imageURL" : "https:\/\/anatolia19.com\/img\/projects\/digital_map.jpg",
+    "backDesc" : "",
+    "productDescription" : "An undergraduate digital humanities project aiming to compile as well as digitize intricate data on the region in this century. Anatolia 19, here, presents its latest work."
+  },
+  {
+    "ctaButtonTitle" : "Buy Now",
+    "ctaButtonURL" : "https:\/\/studiomise.shop\/products\/nakayoshi-t-shirt-in-navy",
+    "productName" : "Nakayoshi T-Shirt in Navy\n",
+    "tag1" : "Product",
+    "storeName" : "Studio 店 Mise",
+    "imageURL" : "https:\/\/studiomise.shop\/cdn\/shop\/files\/sMise-Nakayoshi-Tee-Navy-Detail-3_1024x1024.jpg?v=1690085901",
+    "backDesc" : "",
+    "productDescription" : "Nakayoshi, なかよし, Intimacy. *Looks at back of shirt, immediately reminded of the famous chorus from Kelly Clarkson's - A Moment Like This\"*\n\n Nakayoshi, なかよし, Intimacy. *Looks at back of shirt, immediately reminded of the famous chorus from Kelly Clarkson's - A Moment Like This\"*\n\n"
+  },
+  {
+    "ctaButtonTitle" : "Get the Typeface",
+    "ctaButtonURL" : "https:\/\/biliktufoundry.com\/BM-Erkin-1",
+    "productName" : "Erkin Variable Typeface",
+    "tag1" : "Product",
+    "storeName" : "Biliktu Foundry",
+    "imageURL" : "https:\/\/freight.cargo.site\/w\/750\/i\/7c7c0db281db08959fc2a5b39138ab29c883c84703c4b772c9cf7f3e0135a600\/Screen-Shot-2021-12-26-at-12.09.43-AM.png",
+    "backDesc" : "a designer who enjoys employing human-centered studies to address challenges. I'm presently specialised in Inclusive UX Design and a part of the Cognoscenti Studio.\n\nDeveloping typefaces had become a cathartic experience for me. — Enjoy your time with them! There is no why or how in my method; I simply \"do it.\" A sensation or and\/or idea comes to mind, and I produce in response to that experience or idea. ",
+    "productDescription" : "Erkin is a contemporary variable typeface influenced by 1960s psychedelic rock. It was named after a great artist known as \"Erkin Koray.\" The goal was to create a wacky typeface that would match Erkin Koray's album covers (as well as other generic cover art from the 1960s and 1970s) but could also be utilised in current designs.  \n"
+  },
+  {
+    "ctaButtonTitle" : "Read the Article",
+    "ctaButtonURL" : "https:\/\/kumihori.myblog.arts.ac.uk\/2023\/02\/03\/method-of-iterating\/?ref=readephemera.com",
+    "productName" : "Kumi Hori's Inspirational Art of Deconstruction\n",
+    "tag1" : "",
+    "storeName" : "Kumi Hori",
+    "imageURL" : "https:\/\/www.readephemera.com\/content\/images\/size\/w1200\/2023\/07\/ikonkumihori.png",
+    "backDesc" : "In this iterrating project, I tried to make a high fidelity copy of the typeface ‘BM Ikon’, created by a Turkish designer, Murathan Biliktu. The concept of the typeface is Anatolia’s vast landscapes and cultures, so it expresses abnormal and sophisticated stories through its design. For instance, BM Ikon adopted serif as its fundamental construction. But it also used a sans-serif approach to specific letters like T, C and K. In addition, he added characteristic curves to the letters like H, L and V to make the font look human-centred and graphical.\n\n",
+    "productDescription" : "Designer Kumi Hori impressively deconstructs Biliktu Foundry's BM Ikon typeface, crafting new forms with precision and creativity.\n"
+  },
+  {
+    "ctaButtonTitle" : "Read the Article",
+    "ctaButtonURL" : "https:\/\/www.printmag.com\/type-tuesday\/type-tuesday-crate-diggers-will-love-erol-a-turkish-pop-inspired-typeface\/",
+    "productName" : "Type Tuesday: Crate Diggers Will Love Erol, a Turkish Pop-Inspired Typeface",
+    "tag1" : "",
+    "storeName" : "Print Mag",
+    "imageURL" : "https:\/\/freight.cargo.site\/w\/750\/i\/074859cd764c2f0244a3af7ee60e36302487ea0507923c43d58dcc3be5c9c584\/9.png",
+    "backDesc" : "Erol Büyükburç was a Turkish singer-songwriter, pop music composer, and actor. While much of his impact comes from his expansive discography, his aesthetic choices have also made a mark on pop culture. You can see an example of this in designer Murathan Biliktü‘s typeface Erol, based on the font Walter Haettenschweiler designed for Büyükburç’s 1976 album cover.\n\n",
+    "productDescription" : "Murathan Biliktü‘s typeface Erol, based on the font Walter Haettenschweiler designed for Büyükburç’s 1976 album cover.\n\n"
+  }
 ]
